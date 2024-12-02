@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hello, I'm Rufat!
 
-<!--
-**RufatRahmatov/RufatRahmatov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Web Developer** with a passion for creating responsive and user-friendly web applications. Here's a little about me:
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Skills
+- **Frontend:** HTML, CSS, JavaScript, React
+- **Backend:** Node.js, Express.js, MongoDB
+- **Others:** Git, REST APIs, Motion
+
+---
+
+## 🌟 Portfolio Projects
+
+- **[E-commerce Platform](https://github.com/RufatRahmatov/myshopify.com-final-project-):** A full-stack online shopping application with CRUD functionality.
+
+
+---
+
+## 🎯 Goals
+- Contribute to open-source projects.
+- Improve my React and TypeScript skills.
+- Build scalable and efficient web applications.
+
+---
+
+## 📫 Contact Me
+- **Email:** [rufatrahmat@gmail.com]
+- **LinkedIn:**[https://www.linkedin.com/in/rufat-rahmatov-6907862aa/]
+
